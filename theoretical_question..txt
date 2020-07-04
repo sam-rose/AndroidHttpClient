@@ -1,0 +1,2 @@
+storing the token localy reduces overhead of asking each time the server for the token
+but security wise it is not ideal, each device the user will use to connect to the app will store his personal token and will be very exposed.
